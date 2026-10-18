@@ -5,3 +5,6 @@ for number in numbers:
         frequency[number]+= 1
     else:
         frequency[number]= 1
+print(frequency)
+squares = {x: x**2 for x in numbers if x % 2 == 0}
+print(squares)
