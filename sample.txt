@@ -1,0 +1,4 @@
+Hi we are learing devops aiops with Siva kumar
+and Siva kumar is the devops trainer he teaching the 
+kubernetes docker and terraform prometheus
+number of topics with very informative very collective information
